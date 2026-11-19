@@ -93,7 +93,7 @@ I'm interested in Junior Full-Stack Developer and Software Developer opportuniti
 - **GitHub:** https://github.com/Bento12ad
 - **LinkedIn:** https://www.linkedin.com/in/jakapan-ploensup/
 - **Email:** Jakapan.work.dev@gmail.com
-- **Portfolio:** Add your portfolio URL here
+- **Portfolio:** https://bento12ad.github.io/Portfolio/
 
 ---
 
